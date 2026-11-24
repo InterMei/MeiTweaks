@@ -1,11 +1,12 @@
 # MeiTweaks
 A Meteor Client Addons That Add AntiChunkban Uiutils SignEditor
 
+[Discord](https://discord.gg/DfTadNqQEA)
+
 ## Credits
 
-Special thanks to [**Quackerx**](https://github.com/Quackerx)
-
-| Mod | Modrinth | GitHub |
-|-----|----------|--------|
-| Sign Editor | [modrinth.com/mod/sign-editor](https://modrinth.com/mod/sign-editor) | [Quackerx/Sign-Editor](https://github.com/Quackerx/Sign-Editor) |
-| Anti Chunkban | [modrinth.com/mod/anti-chunkbans](https://modrinth.com/mod/anti-chunkbans) | [Quackerx/anti-chunkban](https://github.com/Quackerx/anti-chunkban) |
+| Mod | Credit | Links |
+|-----|--------|-------|
+| Sign Editor | [**Quackerx**](https://github.com/Quackerx) | [Modrinth](https://modrinth.com/mod/sign-editor) · [GitHub](https://github.com/Quackerx/Sign-Editor) |
+| Anti Chunkban | [**Quackerx**](https://github.com/Quackerx) | [Modrinth](https://modrinth.com/mod/anti-chunkbans) · [GitHub](https://github.com/Quackerx/anti-chunkban) |
+| UI Utils | **MrBreakNFix** and **Coderx Gamer** | [ui-utils.com](https://ui-utils.com/) |
