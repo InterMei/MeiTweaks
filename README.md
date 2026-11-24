@@ -1,10 +1,11 @@
 # MeiTweaks
-A Meteor Client Addons That Add AntiChunkban Uiutils SignEditor
+
+A Meteor Client addon that adds **AntiChunkban**, **UiUtils** and **SignEditor**.
 
 ## Credits
 
-| Mod | Credit | Modrinth | GitHub | Website | Discord |
-|-----|--------|----------|--------|---------|---------|
-| Sign Editor | [**Quackerx**](https://github.com/Quackerx) | [Link](https://modrinth.com/mod/sign-editor) | [Link](https://github.com/Quackerx/Sign-Editor) | - | [Quackerx](https://discord.gg/tchc7vfqUH) |
-| Anti Chunkban | [**Quackerx**](https://github.com/Quackerx) | [Link](https://modrinth.com/mod/anti-chunkbans) | [Link](https://github.com/Quackerx/anti-chunkban) | - | [Quackerx](https://discord.gg/tchc7vfqUH) |
-| UI Utils | **MrBreakNFix** and **Coderx Gamer** | - | - | [ui-utils.com](https://ui-utils.com/) | [UI Utils](https://discord.gg/DfTadNqQEA) |
+| Module | Credit | Links |
+|--------|--------|-------|
+| Sign Editor | [Quackerx](https://github.com/Quackerx) | [Modrinth](https://modrinth.com/mod/sign-editor)<br>[GitHub](https://github.com/Quackerx/Sign-Editor)<br>[Discord](https://discord.gg/tchc7vfqUH) |
+| Anti Chunkban | [Quackerx](https://github.com/Quackerx) | [Modrinth](https://modrinth.com/mod/anti-chunkbans)<br>[GitHub](https://github.com/Quackerx/anti-chunkban)<br>[Discord](https://discord.gg/tchc7vfqUH) |
+| UI Utils | MrBreakNFix<br>Coderx Gamer | [Website](https://ui-utils.com/)<br>[Discord](https://discord.gg/DfTadNqQEA) |
