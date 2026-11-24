@@ -3,7 +3,7 @@ A Meteor Client Addons That Add AntiChunkban Uiutils SignEditor
 
 ## Credits
 
-Special thanks to **Quackerx**
+Special thanks to [**Quackerx**](https://github.com/Quackerx)
 
 | Mod | Modrinth | GitHub |
 |-----|----------|--------|
