@@ -13,5 +13,5 @@ A Meteor Client addon that adds **AntiChunkban**, **UiUtils** and **SignEditor**
 
 ## Quackerx Videos
 
-- [Anti Chunkban](https://youtu.be/yfSijOI3sDE)
-- [Sign Editor](https://youtu.be/vlcdLjEtJbw)
+- [Anti Chunkban](https://youtu.be/vlcdLjEtJbw)
+- [Sign Editor](https://youtu.be/yfSijOI3sDE)
