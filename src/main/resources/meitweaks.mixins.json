@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "meitweaks.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "ByteBufCodecsMixin",
+    "ClientboundLevelChunkPacketDataMixin",
+    "ClientboundLevelChunkWithLightPacketMixin",
+    "ClientboundLightUpdatePacketDataMixin",
+    "CompressionDecoderMixin",
+    "PacketDecoderMixin",
+    "PacketFriendlyByteBufMixin",
+    "ConnectionMixin",
+    "ScreenMixin"
+  ],
+  "client": [
+    "AbstractContainerScreenMixin",
+    "ChatDragMixin",
+    "CreativeChatMixin",
+    "BookEditScreenMixin",
+    "HandledScreenMixin",
+    "AbstractSignRendererMixin",
+    "CreativeSignMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

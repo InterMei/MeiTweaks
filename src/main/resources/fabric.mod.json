@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "id": "meitweaks",
+  "version": "26.3",
+  "name": "MeiTweaks",
+  "description": "MeiTweaks is a Meteor Client addon by InterMei with Anti-Chunkban, Sign Editor and UI Utils modules.",
+  "authors": [
+    "InterMei"
+  ],
+  "license": "GPL-3.0-or-later",
+  "icon": "assets/meitweaks/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "meteor": [
+      "meitweaks.MeiTweaksAddon"
+    ],
+    "main": [
+      "meitweaks.antichunkban.AntiChunkban",
+      "meitweaks.signeditor.SignEditor"
+    ]
+  },
+  "mixins": [
+    "meitweaks.mixins.json"
+  ],
+  "custom": {
+    "meteor-client:color": "145,61,226",
+    "modmenu": {
+      "parent": {
+        "id": "meteor-client"
+      }
+    }
+  },
+  "depends": {
+    "java": ">=25",
+    "minecraft": "~26.3",
+    "meteor-client": "*",
+    "fabricloader": ">=0.19.5",
+    "fabric-api": "*"
+  },
+  "contact": {
+    "homepage": "https://github.com/InterMei/MeiTweaks",
+    "sources": "https://github.com/InterMei/MeiTweaks",
+    "issues": "https://github.com/InterMei/MeiTweaks/issues"
+  }
+}
